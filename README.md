@@ -1,7 +1,7 @@
 # chrisduran
 Senior IT Infrastructure | Cisco CIE R&amp;S | Microsoft MECC - SCCM | O365 | Exchange | Active Directory | Azure - Azure AD | PowerShell | VMware | Service Now - Rackspace | Windows Server | Infrastructure | PMP | ITIL | SCRUM
-# Hi there, I'm [Your Name] 👋
-### Cloud Infrastructure & Systems Engineer 
+# Hi there, I'm Christian Duran
+### Senior IT Infrastructure & Network-Systems Engineer 
 
 ---
 
